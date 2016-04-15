@@ -1,0 +1,52 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+I have learned basic HTML syntax skills as well as some best practise.
+
+This has been easy.
+
+Finding the line (hr) was the hardest part.
+
+I have not had to use the problem solving strategies yet.
+
+---
+How might using version control make you more confident to make changes that could break something?
+
+Now I know that I can roll back to previous versions I will make changes with the confidence that any errors can be reversed.
+--
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+To improve my day to day life. 
+
+—
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+So that I can organise fixes and improvements into logical categories and merge/roll back later on. 
+
+—-
+
+How do the diagrams help you visualize the branch structure?
+
+By seeing how the different branches deviate and merge from each other as time progresses. 
+
+—
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+All previous commits from each branch are merged into one retaining the complete log history. 
+
+—
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+
+
