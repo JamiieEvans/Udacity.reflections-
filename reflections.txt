@@ -56,4 +56,10 @@ Fork is a clone on github
 Clone is a copy between local and remote repos
 branches are different heads that give space for new development that can be merged with existing code complete with version control 
 
+—
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+To prevent issues when merging and having the most up to date version of the code available. 
+
 
