@@ -62,4 +62,9 @@ What is the benefit of having a copy of the last known state of the remote store
 
 To prevent issues when merging and having the most up to date version of the code available. 
 
+—
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Google Drive - it has version control but it would be a pain to upload and download for every change. 
+Dropbox - As Above
