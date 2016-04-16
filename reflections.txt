@@ -48,5 +48,12 @@ All previous commits from each branch are merged into one retaining the complete
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
 
+—
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork is a clone on github
+Clone is a copy between local and remote repos
+branches are different heads that give space for new development that can be merged with existing code complete with version control 
 
 
